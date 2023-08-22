@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChartsModule.API", "ChartsModule.API\ChartsModule.API.csproj", "{31A32666-94B1-4948-AE6D-51277871D0FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A72BD94-28C0-4533-804C-FDE8FE8A7981}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{F2021BF5-8FE0-497A-A339-8296B1A64169}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\TechnicalProject_ru.md = Documentation\TechnicalProject_ru.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A32666-94B1-4948-AE6D-51277871D0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A32666-94B1-4948-AE6D-51277871D0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A32666-94B1-4948-AE6D-51277871D0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A32666-94B1-4948-AE6D-51277871D0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F2021BF5-8FE0-497A-A339-8296B1A64169} = {7A72BD94-28C0-4533-804C-FDE8FE8A7981}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6272C0D3-C8A9-4A48-B532-AECD9CB438B5}
+	EndGlobalSection
+EndGlobal
