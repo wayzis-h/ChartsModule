@@ -17,6 +17,8 @@ First you need Visual Studio 2022.
 Then you can install [Docker Desktop for Windows](https://github.com/docker/for-win) or use your preferable edition.
 This should be enought to compile and run the program.
 
+You can explore the API through Swagger UI on *https://hostname:port/swagger*.
+
 # Credits
 The WEB-API developed by [Anatoly Kostin](https://github.com/wayzis-h).
 The external system designed by [Nikolay](https://github.com/TeslaSesla).

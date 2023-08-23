@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace ChartsModule.API
 {
     /// <summary>
-    /// Contains get parameters for <see cref="Controllers.GetChart.Get(ChartRequest)"/> method.
+    /// Contains GET parameters for <see cref="Controllers.GetChart.Get(ChartRequest)"/> method.
     /// </summary>
     public class ChartRequest
     {
