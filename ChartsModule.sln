@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 		Documentation\TechnicalProject_ru.md = Documentation\TechnicalProject_ru.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartsModule.Core", "ChartsModule.Core\ChartsModule.Core.csproj", "{5E317D99-9E87-47CE-8004-57367B1B64E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{31A32666-94B1-4948-AE6D-51277871D0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A32666-94B1-4948-AE6D-51277871D0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A32666-94B1-4948-AE6D-51277871D0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E317D99-9E87-47CE-8004-57367B1B64E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E317D99-9E87-47CE-8004-57367B1B64E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E317D99-9E87-47CE-8004-57367B1B64E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E317D99-9E87-47CE-8004-57367B1B64E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
